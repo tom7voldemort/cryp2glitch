@@ -294,5 +294,6 @@ def Main():
 
 
 if __name__ == "__main__":
+    strobject.clear()
     print(banner)
     Main()
